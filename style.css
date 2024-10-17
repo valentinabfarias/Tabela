@@ -1,0 +1,25 @@
+table {
+    width: 50%;
+    border: 1px #000 solid;
+    margin: auto;
+    border-collapse: separate;
+}
+
+th {
+    color: rgb(255, 255, 255);
+    background-color: #e764a1;
+}
+
+td {
+    border: 1px #000000 solid;
+    padding: 5px;
+}
+
+tr:hover {
+    background-color: #29dce9;
+    background-color: #c439bd8f;
+}
+
+hr .linha {
+    background-color: #000;
+}
